@@ -5,8 +5,8 @@ int main()
 	scanf("%d",&n);
 	struct student
 	{
-		char name[100];
-		char rnum[100];
+		char name[1000];
+		char rnum[1000];
 		int age;
 		int marks;
 	};
