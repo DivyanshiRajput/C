@@ -20,7 +20,7 @@ int multiply(int a, int b)// returns their product
 float divide(int a, int b)// returns the quotient assuming b is not 0
 {
 	
-	return (float)a/(float)b;
+	return (float)a/(float)b;//returns float value.
 }
 int main(int argc, char **argv)
 {
